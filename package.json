@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend course app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ex31.js",
+    "dev": "nodemon ex31.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "reymondar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
