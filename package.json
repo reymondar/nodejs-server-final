@@ -4,8 +4,8 @@
   "description": "Backend course app",
   "main": "index.js",
   "scripts": {
-    "start": "node ex31.js",
-    "dev": "nodemon ex31.js",
+    "start": "index.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "reymondar",
